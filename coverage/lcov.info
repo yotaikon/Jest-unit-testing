@@ -1,0 +1,17 @@
+TN:
+SF:src\truncate.ts
+FN:1,truncate
+FNF:1
+FNH:1
+FNDA:15,truncate
+DA:1,1
+DA:2,15
+DA:3,12
+DA:4,8
+LF:4
+LH:4
+BRDA:2,0,0,3
+BRDA:3,1,0,4
+BRF:2
+BRH:2
+end_of_record
