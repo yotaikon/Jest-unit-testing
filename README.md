@@ -2,6 +2,17 @@
 
 这个项目展示了如何使用 Jest 为 TypeScript 函数编写完整的单元测试。
 
+## 提示词
+
+```bash
+你是一位资深的Js测试工程师。 请为以下js代码 export function truncate(str: string, length: number): string {
+if (length <= 0) return "";
+if (str .length <= length) return str;
+return str .slice(0, length) + " . . .";
+
+}  用 Jest 进行单元测试，编写测试用例，包括长度够、长度不够、长度为负的情况，包括边界，为每个测试用例起一个清晰的、能反映其意图的名字。
+```
+
 ## 项目结构
 
 ```
